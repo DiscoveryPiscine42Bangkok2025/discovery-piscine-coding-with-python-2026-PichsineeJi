@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 firstN = int(input("Enter the first number:\n"))
 secN = int(input("Enter the second number:\n"))
 result = firstN*secN
